@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import React, { useState } from 'react';
 
 export const HW3 = () => {
   // 1️⃣ Раскомментируйте JSX(HW3.tsx) и вы увидите,
